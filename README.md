@@ -22,8 +22,7 @@ This tutorial outlines the process of creating, sorting, and solving tickets in 
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
-                                                                                                   
+                                                                                                
 <p>
 <img src= "https://imgur.com/nma3PO2.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
 </p>
